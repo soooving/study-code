@@ -10,6 +10,7 @@
   - <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>   [`숫자 문자열과 영단어`](https://github.com/soooving/study-code/blob/main/programmers/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java)
   - <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>   [`나머지가 1이 되는 수 찾기`](https://github.com/soooving/study-code/blob/main/programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C3/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)
   - <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>   [`없는 숫자 더하기`](https://github.com/soooving/study-code/blob/main/programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C3/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
+  - <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>   [`부족한 금액 계산하기`](https://github.com/soooving/study-code/blob/main/programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.java)
 
 
 <br/>
